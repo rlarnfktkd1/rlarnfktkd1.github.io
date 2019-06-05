@@ -1,13 +1,11 @@
 ---
-title: "React 함께 공부합시다"
+title: "React 함께 공부합시다 목차"
 categories:
   - React
 tags:
   - React
   - Javascript
   - css
-  - lists
-  - test
 ---
 # React & Javascript
 
